@@ -1,0 +1,180 @@
+{
+"serv":{
+    "hold":{
+        "en":"Hold this block",
+        "ru":"Зафиксировать"
+    }, 
+    "unhold":{
+        "en":"Unhold this block",
+        "ru":"Расфиксировать"
+    }, 
+    "subm":{
+        "en":"Submit",
+        "ru":"Запсиать"
+    },
+    "subm.next":{
+        "en":"Submit next",
+        "ru":"Записать ещё"
+    }
+},
+"head":{
+    "home":{
+        "en":"Home",
+        "ru":"Главная"
+    },
+    "di":{
+        "en":"Data input",
+        "ru":"Ввод данных"
+    },
+    "Stat":{
+        "en":"Statistics",
+        "ru":"Статистика"
+    },
+    "language":{
+        "en":"Language",
+        "ru":"Язык"
+    },
+    "login":{
+        "en":"LogIn",
+        "ru":"Войти"
+    }
+},
+"publ":{
+    "h_pub":{
+        "en":"Publication info",
+        "ru":"Информация о публикации"
+    },
+    "name_publ":{
+        "en":"Name: ",
+        "ru":"Название" 
+    },
+    "aut1":{
+        "en":"Author: ",
+        "ru":"Автор: "
+    },
+    "aut2":{
+        "en":"Authors: ",
+        "ru":"Авторы: "
+    },
+    "ref":{
+        "en":"Referene: ",
+        "ru":"Источник: "
+    },
+    "chg_publ":{
+    "en":"Change",
+    "ru":"Сменить публикацию"
+    }
+},
+"pl.adm":{
+    "h_pl.adm":{
+        "en":"Place (administrative)",
+        "ru":"Административное расположение"
+    },
+    "adm0":{
+        "en":"Country",
+        "ru":"Страна"
+    }, 
+    "adm1":{
+        "en":"Region",
+        "ru":"Регион"
+    },
+    "adm2":{
+        "en":"District",
+        "ru":"Район"
+    }
+},
+"pl.geo":{
+    "h_pl.geo":{
+        "en":"Place (geographical)",
+        "ru":"Географическое расположение"
+    },
+    "loc":{
+        "en":"Locality (nearest)",
+        "ru":"Ближайший населенный пункт"
+    },
+    "loc2":{
+        "en":"Locality (in details)",
+        "ru":"Точное расположение"
+    },
+    "Coordinates":{
+        "en":"Coordinates",
+        "ru":"Коордианаты"
+    },
+    "geo.rem":{
+        "en":"Other remarks",
+        "ru":"Прочие примечания"
+    },
+    "filler":{
+        "en":"WGS'84",
+        "ru":"WGS'84"
+    }
+},
+"event":{
+    "h_event":{
+        "en":"Sampling event",
+        "ru":"Данные пробы"
+    },
+    "date":{
+        "en":"Date",
+        "ru":"Дата"
+    },
+    "hab":{
+        "en":"Habitats",
+        "ru":"Биотоп"
+    },
+    "effort":{
+        "en":"Sampling effort",
+        "ru":"Выборочное усилие"
+    },
+    "eff_fill":{
+        "en":"e.g. 20 pitfal-traps*days, 50 net sweps",
+        "ru":"например, 20 лов-сут или 50 взмахов сачком"
+    },
+    "event_rem":{
+        "en":"Events remarks",
+        "ru":"Комментарии"
+    }
+},
+"taxa":{
+    "h_taxa":{
+        "en":"Taxonomy", 
+        "ru":"Таксономия"
+    },
+    "fam":{
+        "en":"Family (optional)",
+        "ru":"Семейство (не обязательно)"
+    },
+    "gen":{
+        "en":"Genus",
+        "ru":"Род"
+    },
+    "sp":{
+        "en":"Species",
+        "ru":"Вид"
+    },
+    "n_def":{
+        "en":"not defined",
+        "ru":"не определено"
+    },
+    "ind_rem":{
+        "en":"Individual remarks",
+        "ru":"Комментарии об экземпляре"
+    },
+    "abu":{
+        "en":"Amount",
+        "ru":"Количество"
+    },
+    "mmm":{
+        "en":"Males",
+        "ru":"Самцов"
+    },
+    "fff":{
+        "en":"Females", 
+        "ru":"Самок"
+    },
+    "jjj":{
+        "en":"Juveniles",
+        "ru":"Неполовозрелых"
+    }
+}
+}
